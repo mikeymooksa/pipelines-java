@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/michaelscouller0549/TestAzureDevOps/_apis/build/status/mikeymooksa.pipelines-java?branchName=master)](https://dev.azure.com/michaelscouller0549/TestAzureDevOps/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
